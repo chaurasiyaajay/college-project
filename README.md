@@ -1,3 +1,2 @@
-# college-project
-This is my first college project website  
-it's a simple web page using HTML, CSS, JS 
+# E-Health-Care
+This is my first mini Project E-Health-Care using HTML5, CSS, JS  for the front-end 
